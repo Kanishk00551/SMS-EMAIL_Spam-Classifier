@@ -1,5 +1,5 @@
 Objective:
-The goal of this project is to classify text data from three different languages (English, French, and German) as either "Spam" or "Ham" (not spam). Using a machine learning model, we aim to accurately classify the dataset based on text features.
+The goal of this project is to classify text data from three different languages (English) as either "Spam" or "Ham" (not spam). Using a machine learning model, we aim to accurately classify the dataset based on text features.
 
 Dataset:
 The dataset consists of text messages labeled as "Spam" or "Ham" .
