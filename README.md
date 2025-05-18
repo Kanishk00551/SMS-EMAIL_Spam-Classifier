@@ -2,7 +2,6 @@ Sure! Here's the complete `README.md` content in one file:
 
 ---
 
-````markdown
 # 📩 SMS-EMAIL Spam Classifier
 
 This project is a simple and effective **Spam Classifier** for SMS and Email messages using **Natural Language Processing (NLP)** and **Machine Learning (ML)**. It uses a Multinomial Naive Bayes model trained on preprocessed message data and provides predictions via a clean and responsive **Streamlit** web app.
