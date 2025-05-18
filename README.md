@@ -1,5 +1,3 @@
-Sure! Here's the complete `README.md` content in one file:
-
 ---
 
 # 📩 SMS-EMAIL Spam Classifier
@@ -34,18 +32,18 @@ Run the app locally using the instructions below and test out your own SMS or Em
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repository**:
-   ```bash
+```1. **Clone the repository**:
+   bash
    git clone https://github.com/Kanishk00551/SMS-EMAIL_Spam-Classifier.git
    cd SMS-EMAIL_Spam-Classifier
-````
+
 
 2. **Create a virtual environment (optional but recommended)**:
 
-   ```bash
+   ~~~bash
    python -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
+ 
 
 3. **Install the dependencies**:
 
